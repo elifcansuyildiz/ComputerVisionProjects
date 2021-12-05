@@ -6,4 +6,5 @@ This repository includes my Computer Vision Projects and the content is presente
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [RegressionClassification](https://github.com/elifcansuyildiz/ComputerVisionProjects/tree/main/RegressionClassification) | Linear Regression<br />Non-Linear Regression<br />Dual Regression<br />Classification |
 | [SegmentationRandomForest](https://github.com/elifcansuyildiz/ComputerVisionProjects/tree/main/SegmentationRandomForest) | randomforest.py<br />sampler.py<br />tree.py                 |
+| [CNNs](https://github.com/elifcansuyildiz/ComputerVisionProjects/tree/main/CNNs) | MNIST data<br />Shallow Model<br />Deeper Model<br />Wider Model |
 | [SegmentationKMeans](https://github.com/elifcansuyildiz/ComputerVisionProjects/tree/main/SegmentationKMeans) | k-Means                                                      |
